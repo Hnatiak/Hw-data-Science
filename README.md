@@ -9,4 +9,4 @@ To run the notebook:
 
 jupyter notebook
 
-# Hw1.ipynb - in progress
+# Hw2.ipynb - in progress
