@@ -1,4 +1,4 @@
-# Hw1.ipynb - ready!
+# Hw1.ipynb - ready! (Unpassed)
 
 Jupyter Notebook
 Install the classic Jupyter Notebook with:
@@ -9,4 +9,4 @@ To run the notebook:
 
 jupyter notebook
 
-# Hw2.ipynb - in progress
+# Hw2.ipynb - in progress! (Unpassed)
