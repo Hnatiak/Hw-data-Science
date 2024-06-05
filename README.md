@@ -1,4 +1,4 @@
-# Hw1.ipynb - ready! (Passed)
+# Hw1.ipynb - Ready! (Passed)
 
 Jupyter Notebook
 Install the classic Jupyter Notebook with:
