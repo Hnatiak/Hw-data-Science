@@ -11,4 +11,4 @@ jupyter notebook
 
 # Hw2.ipynb - Ready! (Passed)
 # Hw3.ipynb - Ready! (Passed)
-# Hw4.ipynb - Unready! (Unpassed)
+# Hw4.ipynb - Ready! (Unpassed)
