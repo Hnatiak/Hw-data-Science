@@ -10,4 +10,5 @@ To run the notebook:
 jupyter notebook
 
 # Hw2.ipynb - Ready! (Passed)
-# Hw3.ipynb - Ready! (Unpassed)
+# Hw3.ipynb - Ready! (Passed)
+# Hw4.ipynb - Unready! (Unpassed)
