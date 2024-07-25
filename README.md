@@ -19,7 +19,7 @@ jupyter notebook
 # Hw9.ipynb - Ready! (Passed)
 # Hw10.ipynb - Ready! (Passed)
 # Hw11.ipynb - Ready! (Passed)
-# Hw12.ipynb - Ready! (Unpassed)
+# Hw12.ipynb - Ready! (Passed)
 
 Все, ми виконали всі дз, пофіксили всі помилки, і навчились багато чому на Data-Science, удачі вам і хочу подякувати команді GoIT, яка долпомогла мені в цьому (Розуміти навіщо потрібен Data-Science, для чого ми його застосовуємо, як з ним працювати і тд) - тому велике їм ДЯКУЮ! Посилання на їхні курси і інше залишу знизу:
 
